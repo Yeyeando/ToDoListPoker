@@ -130,3 +130,9 @@ Se han implementado **tests en el backend**.
 
 El proyecto ya tiene un **.bat** que inicia el proyecto directamente. Tras ejecutarlo, ya se puede ver el proyecto en la ruta http://localhost:4200/
 
+
+##¿Cómo ejecutar los tests?
+
+Desde la carpeta backend/src ejecutamos el comando
+
+dotnet test TaskManager.Tests
