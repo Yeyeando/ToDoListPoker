@@ -5,6 +5,7 @@ C:\proyectos\to-do-list\backend\src\TaskManager.Domain\obj\Debug\net10.0\TaskMan
 C:\proyectos\to-do-list\backend\src\TaskManager.Domain\obj\Debug\net10.0\TaskManager.Domain.AssemblyInfoInputs.cache
 C:\proyectos\to-do-list\backend\src\TaskManager.Domain\obj\Debug\net10.0\TaskManager.Domain.AssemblyInfo.cs
 C:\proyectos\to-do-list\backend\src\TaskManager.Domain\obj\Debug\net10.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\proyectos\to-do-list\backend\src\TaskManager.Domain\obj\Debug\net10.0\TaskManager.Domain.sourcelink.json
 C:\proyectos\to-do-list\backend\src\TaskManager.Domain\obj\Debug\net10.0\TaskManager.Domain.dll
 C:\proyectos\to-do-list\backend\src\TaskManager.Domain\obj\Debug\net10.0\refint\TaskManager.Domain.dll
 C:\proyectos\to-do-list\backend\src\TaskManager.Domain\obj\Debug\net10.0\TaskManager.Domain.pdb

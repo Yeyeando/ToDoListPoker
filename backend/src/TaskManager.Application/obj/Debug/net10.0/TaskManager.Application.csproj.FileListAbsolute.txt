@@ -8,6 +8,7 @@ C:\proyectos\to-do-list\backend\src\TaskManager.Application\obj\Debug\net10.0\Ta
 C:\proyectos\to-do-list\backend\src\TaskManager.Application\obj\Debug\net10.0\TaskManager.Application.AssemblyInfoInputs.cache
 C:\proyectos\to-do-list\backend\src\TaskManager.Application\obj\Debug\net10.0\TaskManager.Application.AssemblyInfo.cs
 C:\proyectos\to-do-list\backend\src\TaskManager.Application\obj\Debug\net10.0\TaskManager.Application.csproj.CoreCompileInputs.cache
+C:\proyectos\to-do-list\backend\src\TaskManager.Application\obj\Debug\net10.0\TaskManager.Application.sourcelink.json
 C:\proyectos\to-do-list\backend\src\TaskManager.Application\obj\Debug\net10.0\TaskMana.898BD9DB.Up2Date
 C:\proyectos\to-do-list\backend\src\TaskManager.Application\obj\Debug\net10.0\TaskManager.Application.dll
 C:\proyectos\to-do-list\backend\src\TaskManager.Application\obj\Debug\net10.0\refint\TaskManager.Application.dll
