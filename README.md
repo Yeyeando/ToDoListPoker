@@ -133,6 +133,6 @@ El proyecto ya tiene un **.bat** que inicia el proyecto directamente. Tras ejecu
 
 ## ¿Cómo ejecutar los tests?
 
-Desde la carpeta backend/src ejecutamos el comando
+Desde la carpeta backend/src se debe ejecutar el siguiente comando en la terminal
 
 dotnet test TaskManager.Tests
